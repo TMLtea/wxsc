@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/entity/entity.iml" filepath="$PROJECT_DIR$/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxsc_dao/wxsc_dao.iml" filepath="$PROJECT_DIR$/wxsc_dao/wxsc_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxsc_parent.iml" filepath="$PROJECT_DIR$/wxsc_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxsc_service/wxsc_service.iml" filepath="$PROJECT_DIR$/wxsc_service/wxsc_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxsc_web/wxsc_web.iml" filepath="$PROJECT_DIR$/wxsc_web/wxsc_web.iml" />
+    </modules>
+  </component>
+</project>
